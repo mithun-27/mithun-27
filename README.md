@@ -93,12 +93,6 @@
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mithun-27&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithun-27&layout=compact&theme=tokyonight&hide_title=true&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mithun-27&theme=dark&hide_border=true" alt="GitHub streak" />
 </p>
 
