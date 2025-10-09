@@ -110,8 +110,6 @@
 
 ## 🔍 Featured Projects
 
-> These are my repositories — replace the table rows below with your actual repo links + one-line descriptions.
-
 | Project | Description |
 |---|---|
 | [Sentiment_Analysis]([https://github.com/mithun-27/Repo-Name-1](https://github.com/mithun-27/sentiment_analysis)) | This project builds a sentiment analysis classifier using Python and NLTK. It processes raw text reviews then trained to classify text as either positive or negative, providing a practical foundation in natural language processing |
