@@ -112,10 +112,10 @@
 
 | Project | Description |
 |---|---|
-| [Sentiment_Analysis]([https://github.com/mithun-27/Repo-Name-1](https://github.com/mithun-27/sentiment_analysis)) | This project builds a sentiment analysis classifier using Python and NLTK. It processes raw text reviews then trained to classify text as either positive or negative, providing a practical foundation in natural language processing |
-| [Image_Classifier]([https://github.com/mithun-27/Repo-Name-2](https://github.com/mithun-27/Image_classifier)) | I have built a model to classify images of different natural scenes (like forests, glaciers, and streets) using a powerful technique called transfer learning. This project is perfect for understanding the end-to-end machine learning workflow. |
-| [AI_Stock_Predictor]([https://github.com/mithun-27/Repo-Name-3](https://github.com/mithun-27/AI_Stock_Predictor)) | This is an effective web application that uses a machine learning model to predict future stock prices based on historical data. |
-| [Handwritten_Recognizer]([https://github.com/mithun-27/Repo-Name-4](https://github.com/mithun-27/Handwritten_Recognizer)) | An interactive web app that recognizes handwritten digits (0-9) and letters (a-z). Draw a character on the canvas for an instant prediction from a PyTorch-powered CNN. Best of all, if the model is wrong, you can correct it, and it will learn from your input in real-time, constantly improving its accuracy!. |
+| [Sentiment_Analysis](https://github.com/mithun-27/sentiment_analysis) | This project builds a sentiment analysis classifier using Python and NLTK. It processes raw text reviews then trained to classify text as either positive or negative, providing a practical foundation in natural language processing |
+| [Image_Classifier](https://github.com/mithun-27/Image_classifier) | I have built a model to classify images of different natural scenes (like forests, glaciers, and streets) using a powerful technique called transfer learning. This project is perfect for understanding the end-to-end machine learning workflow. |
+| [AI_Stock_Predictor](https://github.com/mithun-27/AI_Stock_Predictor) | This is an effective web application that uses a machine learning model to predict future stock prices based on historical data. |
+| [Handwritten_Recognizer](https://github.com/mithun-27/Handwritten_Recognizer) | An interactive web app that recognizes handwritten digits (0-9) and letters (a-z). Draw a character on the canvas for an instant prediction from a PyTorch-powered CNN. Best of all, if the model is wrong, you can correct it, and it will learn from your input in real-time, constantly improving its accuracy!. |
 
 
 ---
