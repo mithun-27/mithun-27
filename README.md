@@ -1,8 +1,6 @@
 <table>
 <tr>
 <td width="70%" valign="middle">
-  <a href="https://github.com/mithun-27">
-    <img src="https://github.com/mithun-27.png" alt="Mithun" width="56" style="border-radius:50%; vertical-align: middle;">
   </a>
   <h1 style="display: inline-block; margin: 0; vertical-align: middle;">Mithun S (mithun-27) 👋</h1>
   <br><br>
