@@ -93,8 +93,12 @@
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mithun-27&theme=dark&hide_border=true" alt="GitHub streak" />
+  <img 
+    src="https://streak-stats.demolab.com?user=mithun-27&theme=react&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mithun-27&theme=react-dark&hide_border=true" alt="contribution graph" />
