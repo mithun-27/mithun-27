@@ -126,5 +126,5 @@
   <a href="https://www.hackerrank.com/profile/2k23aids36">HackerRank</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/mithun-27">GitHub</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="mailto:kvl202014@gmail.com">Email</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="http://www.curiolabs.in">Portfolio</a>
+  <a href="https://mithun-portfolio-30c4f.web.app/">Portfolio</a>
 </p>
