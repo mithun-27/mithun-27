@@ -18,6 +18,9 @@
   <a href="https://leetcode.com/u/mithun_27/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-mithun__27-orange?style=flat-square"></a>
   <a href="https://www.hackerrank.com/profile/2k23aids36"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2k23aids36-brightgreen?style=flat-square"></a>
   <a href="https://www.linkedin.com/in/mithun-s-732939280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mithun-blue?style=flat-square"></a>
+ <a href="https://drive.google.com/file/d/1T9Eq1yGzn_2SDi5UqrikTIOLGSyqp5Ej/view?usp=sharing">
+  <img alt="Resume" src="https://img.shields.io/badge/Resume-View%20Now-ff5722?style=flat-square&logo=adobeacrobatreader&logoColor=white">
+</a>
 </p>
 
 ---
